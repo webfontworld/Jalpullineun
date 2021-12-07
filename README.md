@@ -1,6 +1,3 @@
-# Jalpullineun
-
-
 # 잘풀리는 오늘(JalpullineunOneul)
 
 <a href="https://wess.tistory.com" target="_blank">
