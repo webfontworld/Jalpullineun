@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'JalpullineunHaru';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/Jalpullineun/JalpullineunHaru.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/Jalpullineun/JalpullineunHaru.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Jalpullineun/JalpullineunHaru.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Jalpullineun/JalpullineunHaru.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/Jalpullineun/JalpullineunHaru.ttf') format("truetype");
+    font-display: swap;
+}
